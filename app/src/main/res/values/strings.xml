@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Notes</string>
+
+    <!-- Buttons -->
+    <string name="ok_button">Done</string>
+    <string name="cancel_button">Cancel</string>
+
+    <!-- this is a comment -->
+
 </resources>
